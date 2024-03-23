@@ -11,6 +11,7 @@
 		F5BC97C32BAF0CD800C499C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BC97C22BAF0CD800C499C0 /* ContentView.swift */; };
 		F5BC97C52BAF0CD900C499C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5BC97C42BAF0CD900C499C0 /* Assets.xcassets */; };
 		F5BC97C82BAF0CD900C499C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5BC97C72BAF0CD900C499C0 /* Preview Assets.xcassets */; };
+		F5BC97CF2BAF13B500C499C0 /* SocketServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BC97CE2BAF13B500C499C0 /* SocketServer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F5BC97C22BAF0CD800C499C0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F5BC97C42BAF0CD900C499C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5BC97C72BAF0CD900C499C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F5BC97CE2BAF13B500C499C0 /* SocketServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocketServer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F5BC97C02BAF0CD800C499C0 /* WebScoketPracticeApp.swift */,
 				F5BC97C22BAF0CD800C499C0 /* ContentView.swift */,
+				F5BC97CE2BAF13B500C499C0 /* SocketServer.swift */,
 				F5BC97C42BAF0CD900C499C0 /* Assets.xcassets */,
 				F5BC97C62BAF0CD900C499C0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5BC97CF2BAF13B500C499C0 /* SocketServer.swift in Sources */,
 				F5BC97C32BAF0CD800C499C0 /* ContentView.swift in Sources */,
 				F5BC97C12BAF0CD800C499C0 /* WebScoketPracticeApp.swift in Sources */,
 			);
